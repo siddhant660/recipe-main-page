@@ -12,3 +12,13 @@
   --prep-heading:hsl(332, 51%, 32%);
   --main-page-bg: hsl(30, 54%, 90%);
 }
+
+@font-face {
+  font-family: text;
+  src: url(/public/fonts/outfit/static/Outfit-Bold.ttf);
+}
+
+@font-face {
+  font-family: headings;
+  src: url(/public/fonts/young-serif/YoungSerif-Regular.ttf);
+}
